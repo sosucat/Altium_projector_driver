@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=Cin-2
+Removed Pin From Net: NetName=GND Pin=Cout-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=Jvin-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND5 Pin=Cin-2
+Added Pin To Net: NetName=GND5 Pin=Cout-2
+Added Pin To Net: NetName=GND5 Pin=D1-2
+Added Pin To Net: NetName=GND5 Pin=Jvin-2
+Added Pin To Net: NetName=GND5 Pin=U1-2
+Added Net: Name=GND5
+Added Rule: Name=Schematic Supply Nets_1

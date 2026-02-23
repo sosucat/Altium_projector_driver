@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND5 Pin=Cout-2
+Added Component: Designator=NT1(Nettie)
+Change Net Name : Old Net Name=GND5 New Net Name=GND24
+Added Pin To Net: NetName=GND5 Pin=Cout-2
+Added Net: Name=GND5
+Added Member To Class: ClassName=Sheet1 Member=Component NT1 Net tie
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

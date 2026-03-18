@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Rnet_gnd Old Footprint=RESC2013X60X40LL20T25 New Footprint=RESC2013X60X40NL20T25
+Change Component Comment : Designator=Rnet_ain Old Comment=8.2kƒ¶ New Comment=ERA-6AEB9311V
+Change Component Comment : Designator=Rnet_bias Old Comment=ERA6AEB244V New Comment=ERA6AEB4993V
+Change Component Comment : Designator=Rnet_gnd Old Comment=ERA6AEB622V New Comment=ERA6AEB113V
+Change Managed Component Library Link : Designator=Rnet_bias Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=AA1CB573-BCD8-418E-9D55-F1EAD90A9679 New ItemGUID=78E5CA09-D7B9-4C38-A250-960594ECCC7C Old RevisionGUID=12C39A0B-7DE1-4433-A935-F37E633683ED New RevisionGUID=8681F33C-6898-465D-936B-484A0432E041
+Change Managed Component Library Link : Designator=Rnet_gnd Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1DCBED4F-B279-4851-B8A0-6AFFDB5E1FAE New ItemGUID=25F6C853-E2E5-4CDA-AB03-42FC8CE11BC4 Old RevisionGUID=845534AA-2A1F-4EAB-BC8E-2C7D7B5EB589 New RevisionGUID=94E4C807-9B8B-44C9-919D-5E3B65E41D52
+Change component parameters: Designator = "Rnet_bias" ("Rnet_bias"); Footprint = "RESC2013X60X40ML20T25"; UniqueID = "\UAZGQDEJ" ("\UAZGQDEJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA6AEB4993V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rnet_gnd" ("Rnet_gnd"); Footprint = "RESC2013X60X40LL20T25"; UniqueID = "\MIUJKGVJ" ("\MIUJKGVJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA6AEB113V"; VariantName = "[No Variations]"

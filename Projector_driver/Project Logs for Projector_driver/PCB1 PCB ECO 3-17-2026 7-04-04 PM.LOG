@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND5 Pin=Cxtal1-2
+Removed Pin From Net: NetName=GND5 Pin=Cxtal2-2
+Removed Pin From Net: NetName=GND5 Pin=NT1-1
+Removed Member From Class: ClassName=Sheet1 Member=NT1
+Added Pin To Net: NetName=GND5 Pin=Cin-2
+Added Pin To Net: NetName=GND5 Pin=Cout-2
+Added Pin To Net: NetName=GND5 Pin=D1-2
+Added Pin To Net: NetName=GND5 Pin=Dpfet_sch-2
+Added Pin To Net: NetName=GND5 Pin=Jglv-1
+Added Pin To Net: NetName=GND5 Pin=Jvin-2
+Added Pin To Net: NetName=GND5 Pin=U1-2
+Change Net Name : Old Net Name=GND5 New Net Name=GND
+Added Pin To Net: NetName=NetCxtal1_2 Pin=Cxtal1-2
+Added Pin To Net: NetName=NetCxtal1_2 Pin=Cxtal2-2
+Added Net: Name=NetCxtal1_2
+Added Rule: Name=Schematic Supply Nets

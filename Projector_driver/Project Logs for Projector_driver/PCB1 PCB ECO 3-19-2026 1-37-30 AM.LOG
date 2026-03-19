@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetDpfet_sch_1 Pin=Qp-1
+Removed Pin From Net: NetName=NetDpfet_sch_1 Pin=Qp-2
+Removed Pin From Net: NetName=NetDpfet_sch_1 Pin=Qp-3
+Removed Pin From Net: NetName=VIN Pin=Qp-5
+Added Pin To Net: NetName=NetDpfet_sch_1 Pin=Qp-5
+Change Net Name : Old Net Name=GATE New Net Name=NetDpfet_zn_2
+Added Member To Class: ClassName=Sheet1 Member=Component Picsp MTSW-103-07-F-D-244

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Cout Old Footprint=FP-GRM31C-0_2-e0_3_0_8-MFG New Footprint=FP-GRM31C-0_3-e0_3_0_8-IPC_C
+Change Component Comment : Designator=Cout Old Comment=GRM31CR71A226KE15L New Comment=GRM31CZ71C226ME15L
+Change Managed Component Library Link : Designator=Cout Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9962A654-78D9-4656-93A9-4B23C30C8DAF New ItemGUID=988AE971-515D-4A0C-AE7D-2D327788FE92 Old RevisionGUID=F8C0DC98-E9AD-46C0-BCA6-4134C9C912C6 New RevisionGUID=F5D035AD-9D71-44D0-9663-823F94FF0217
+Change component parameters: Designator = "Cout" ("Cout"); Footprint = "FP-GRM31C-0_2-e0_3_0_8-MFG"; UniqueID = "\YGCSIEDI" ("\YGCSIEDI")

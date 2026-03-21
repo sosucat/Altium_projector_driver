@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=Cxtal1-2
+Removed Pin From Net: NetName=GND Pin=Cxtal2-2
+Change Component Footprint: Designator=Cxtal1 Old Footprint=CAPC2013X94X50LL20T25 New Footprint=CAPC2013X94X50NL20T25
+Change Component Footprint: Designator=Cxtal2 Old Footprint=CAPC2013X94X50LL20T25 New Footprint=CAPC2013X94X50NL20T25
+Change Component Comment : Designator=Cxtal1 Old Comment=08055A220FAT2A New Comment=08055A270FAT2A
+Change Component Comment : Designator=Cxtal2 Old Comment=08055A220FAT2A New Comment=08055A270FAT2A
+Change Managed Component Library Link : Designator=Cxtal1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EEFAE134-D8A8-4B51-87AB-F64EE057D007 New ItemGUID=A0CE6D94-8EAC-4666-81CF-8FE6C9ABB761 Old RevisionGUID=4C8543CC-3FD6-4BDA-9B45-6959D64295B7 New RevisionGUID=7D5E1DF0-B291-4CC9-AD56-4EE030AA986D
+Change Managed Component Library Link : Designator=Cxtal2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EEFAE134-D8A8-4B51-87AB-F64EE057D007 New ItemGUID=A0CE6D94-8EAC-4666-81CF-8FE6C9ABB761 Old RevisionGUID=4C8543CC-3FD6-4BDA-9B45-6959D64295B7 New RevisionGUID=7D5E1DF0-B291-4CC9-AD56-4EE030AA986D
+Change component parameters: Designator = "Cxtal1" ("Cxtal1"); Footprint = "CAPC2013X94X50LL20T25"; UniqueID = "\QIQARQKI" ("\QIQARQKI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "08055A270FAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cxtal2" ("Cxtal2"); Footprint = "CAPC2013X94X50LL20T25"; UniqueID = "\ESNMVVCL" ("\ESNMVVCL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "08055A270FAT2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cxtal1-1
+Added Pin To Net: NetName=GND Pin=Cxtal2-1
+Added Pin To Net: NetName=NetCxtal1_2 Pin=Cxtal1-2
+Added Pin To Net: NetName=NetCxtal1_2 Pin=U2-7
+Added Pin To Net: NetName=NetCxtal1_2 Pin=Yxtal-1
+Added Net: Name=NetCxtal1_2
+Added Pin To Net: NetName=NetCxtal2_2 Pin=Cxtal2-2
+Added Pin To Net: NetName=NetCxtal2_2 Pin=U2-8
+Added Pin To Net: NetName=NetCxtal2_2 Pin=Yxtal-2
+Added Net: Name=NetCxtal2_2
